@@ -26,9 +26,7 @@
   "dependencies": {
     "@icetee/ftp": "git+https://github.com/rsparlin/node-ftp.git",
     "bluebird": "2.x",
-    "promise-ftp-common": "^1.1.5"
-  },
-  "devDependencies": {
+    "promise-ftp-common": "^1.1.5",
     "coffee-script": "1.x"
   },
   "peerDependencies": {
